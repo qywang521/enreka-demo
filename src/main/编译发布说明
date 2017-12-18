@@ -1,0 +1,2 @@
+1.在项目目录下  mvn install ,生成jar文件
+2.在target下,java -jar jarname.jar --spring.profiles.active=peer1 启动应用
